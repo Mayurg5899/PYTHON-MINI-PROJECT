@@ -1,5 +1,9 @@
 # PYTHON-MINI-PROJECT
 I have solved a mini project which was assigned to me as a part of curriculum of Post Graduation Programme in Data Science and Engineering from Great Lakes.
+
+
+#########################################################################################
+
 ITP Mini Project
 Courier Management System
 For a seamless eCommerce shopping experience, it is essential to deliver the product promptly to the customer. And that’s where a professional courier service plays a vital role. 'FastTrack' courier company stores the relevant data of its clients and parcels in the form of dictionary. Create a dictionary for storing shipment information in key-value pairs. Shipment id is used as a key and list of other attributes like sender, receiver, start date, Delivery Date, Sender_location, Receiver_location, Delivery status, Shipping cost is associated with shipment id. Use the data shown in the table below.
